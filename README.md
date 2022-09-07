@@ -1,4 +1,4 @@
-# Footer-SimpleDark
+# Footer - Simple Dark Theme
 💻 - Simple dark theme footer. HTML + CSS.
 
 ✅ Link GitHub Pages -> preview: https://joni92.github.io/Footer-SimpleDark/
